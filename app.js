@@ -1,6 +1,7 @@
 const app = Vue.createApp({
 
     data() {
+        
         return {
             url:'#',
             fontSize: 40,
